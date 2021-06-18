@@ -13,3 +13,10 @@ To add a file before commit
 ```
 git add -A
 ```
+ 
+
+# Git Commit
+It is used to record the changes in the repository. It is the next command after the **git add**.
+```
+git commit 
+```
