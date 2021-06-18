@@ -8,8 +8,8 @@ git init
 
 # Staging a file
 
-To add a file before commit
-
+To add a file before commit <br>
+**add** changes from all tracked and untracked files
 ```
 git add -A
 ```
@@ -19,4 +19,10 @@ git add -A
 It is used to record the changes in the repository. It is the next command after the **git add**.
 ```
 git commit 
+```
+
+# To update tracked files
+
+```
+git -u
 ```
